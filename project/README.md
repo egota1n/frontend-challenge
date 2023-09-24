@@ -15,7 +15,7 @@
 - [Cat API](https://thecatapi.com/).
 
 ## Ссылка на страницу
-[Cat API](https://thecatapi.com/).
+[https://egota1n.github.io/frontend-challenge/project/](https://egota1n.github.io/frontend-challenge/project/).
 
 ## Установка и запуск
 
@@ -31,4 +31,5 @@ git clone https://github.com/ваш-логин/ваш-репозиторий.git
 
 ### Таначев Егор
 **Telegram** – [egor_tanachev](https://t.me/egor_tanachev)
+
 **Эл. почта** – [e.tanachev@inbox.ru](mailto:e.tanachev@inbox.ru)
