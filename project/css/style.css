@@ -13,6 +13,7 @@
     --col-card: 5;
     --col-spaces: 4;
     --gap: 47px;
+    --scale: 1.142222;
 }
 
 body{
@@ -134,7 +135,7 @@ body{
 }
 
 .section__cats-cat:hover{
-    scale: 1.142222;
+    scale: var(--scale);
 }
 
 .section__more-desc{
@@ -152,6 +153,7 @@ body{
         --col-card: 4;
         --col-spaces: 3;
         --gap: 45px;
+        --scale: 1.1;
     }
 }
 
@@ -159,6 +161,7 @@ body{
     :root {
         --container: 960px;
         --gap: 40px;
+        --scale: 1.05;
     }
 }
 
@@ -168,6 +171,7 @@ body{
         --col-card: 3;
         --col-spaces: 2;
         --gap: 35px;
+        --scale: 1.04;
     }
 }
 
@@ -177,6 +181,7 @@ body{
         --col-card: 2;
         --col-spaces: 1;
         --gap: 30px;
+        --scale: 1.03;
     }
 }
 
@@ -185,6 +190,7 @@ body{
         --col-card: 1;
         --col-spaces: 0;
         --gap: 25px;
+        --scale: 1;
     }
     .container{
         padding: 0 15px;
